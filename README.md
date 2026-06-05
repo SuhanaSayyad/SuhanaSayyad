@@ -33,7 +33,7 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 | **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![In Progress](https://img.shields.io/badge/In%20Progress-003399?style=flat-square)](#) |
 
 </div>
-
+<!--
 ## Writing
 
 <div align="center">
@@ -47,7 +47,7 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 | **SSRN** | Academic papers on regulatory compliance | [![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat-square&logoColor=white)](#) |
 
 </div>
-
+-->
 ## Skills
 
 <div align="center">
