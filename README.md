@@ -86,6 +86,8 @@ I build open-source tools that make AI governance practical for organisations th
 
 <div align="center">
 
+
+
 *If you find my tools useful, consider giving them a* ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055ff,100:003399&height=100&section=footer" width="100%"/>
