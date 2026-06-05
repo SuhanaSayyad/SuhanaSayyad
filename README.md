@@ -3,33 +3,26 @@
 
 <img src="https://komarev.com/ghpvc/?username=SuhanaSayyad&label=Profile%20views&color=003399&style=flat" alt="profile views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana35)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1f36?style=flat-square&logo=github&logoColor=white)](https://github.com/SuhanaSayyad)
-[![IAPP](https://img.shields.io/badge/IAPP%20Member-003399?style=flat-square&logoColor=white)](https://iapp.org)
-[![TUS](https://img.shields.io/badge/MSc%20Cybersecurity%20%7C%20TUS%20Athlone-0055ff?style=flat-square&logoColor=white)](https://tus.ie)
-[![Email](https://img.shields.io/badge/suhanasayyad35%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suhanasayyad35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana35)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1f36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhanaSayyad)
+[![IAPP%20Member](https://img.shields.io/badge/IAPP%20Member-003399?style=for-the-badge&logoColor=white)](https://iapp.org)
+[![MSc%20Cybersecurity](https://img.shields.io/badge/MSc%20Cybersecurity%20%7C%20TUS-0055ff?style=for-the-badge&logoColor=white)](https://tus.ie)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanasayyad35@gmail.com)
 </div>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+---
 
 ### Hey, I am Suhana 👋
 
-MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI Act compliance** and **GDPR**.
+MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
 
-I build open-source tools that make AI governance practical for organisations that do not have a team of lawyers.
+> **I bridge the gap between AI regulation and real-world compliance**  -  building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
 
 - Building **open-source EU AI Act compliance tools**
 - **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
 - 💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
 
-</td>
-<td valign="top" width="40%" align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
-</td>
-</tr>
-</table>
+---
 
 ## 🛠️ Open Source EU AI Act Compliance Tools
 
@@ -93,5 +86,4 @@ I build open-source tools that make AI governance practical for organisations th
 
 *If you find my tools useful, consider giving them a* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055ff,100:003399&height=100&section=footer" width="100%"/>
 </div>
