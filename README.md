@@ -4,8 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=SuhanaSayyad&label=Profile%20views&color=003399&style=flat" alt="profile views"/>
 
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana35)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1f36?style=flat-square&logo=github&logoColor=white)](https://github.com/SuhanaSayyad)
 [![IAPP](https://img.shields.io/badge/IAPP%20Member-003399?style=flat-square&logoColor=white)](https://iapp.org)
@@ -16,7 +14,7 @@
 
 ---
 
-<img align="right" alt="woman coding" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="woman coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### Hey, I am Suhana 👋
 
