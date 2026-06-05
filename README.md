@@ -68,21 +68,21 @@ I build open-source tools that make AI governance practical for organisations th
 
 **Compliance and Governance**
 
-[![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-003399?style=flat-square&logoColor=white)](#)
-[![GDPR](https://img.shields.io/badge/GDPR-0055ff?style=flat-square&logoColor=white)](#)
-[![AI Governance](https://img.shields.io/badge/AI%20Governance-1a1f36?style=flat-square&logoColor=white)](#)
-[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1a6b3a?style=flat-square&logoColor=white)](#)
-[![ISO 42001](https://img.shields.io/badge/ISO%2042001-8b1a1a?style=flat-square&logoColor=white)](#)
-[![Data Protection](https://img.shields.io/badge/Data%20Protection-16a34a?style=flat-square&logoColor=white)](#)
+[![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-003399?style=for-the-badge&logoColor=white)](#)
+[![GDPR](https://img.shields.io/badge/GDPR-0055ff?style=for-the-badge&logoColor=white)](#)
+[![AI Governance](https://img.shields.io/badge/AI%20Governance-1a1f36?style=for-the-badge&logoColor=white)](#)
+[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1a6b3a?style=for-the-badge&logoColor=white)](#)
+[![ISO 42001](https://img.shields.io/badge/ISO%2042001-8b1a1a?style=for-the-badge&logoColor=white)](#)
+[![Data Protection](https://img.shields.io/badge/Data%20Protection-16a34a?style=for-the-badge&logoColor=white)](#)
 
 **Technical**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
-[![NLP](https://img.shields.io/badge/NLP-7c3aed?style=flat-square&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![NLP](https://img.shields.io/badge/NLP-7c3aed?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
