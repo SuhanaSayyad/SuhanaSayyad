@@ -44,8 +44,6 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 |---|---|---|
 | **Dev.to** | Technical deep-dives on EU AI Act compliance tooling | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](#) |
 | **Substack** | AI governance newsletter for compliance teams | [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](#) |
-| **Medium** | Long-form articles on GDPR and AI regulation | [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](#) |
-| **IAPP Privacy Perspectives** | Policy analysis on EU AI Act obligations | [![IAPP](https://img.shields.io/badge/IAPP-003399?style=flat-square&logoColor=white)](#) |
 | **SSRN** | Academic papers on regulatory compliance | [![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat-square&logoColor=white)](#) |
 
 </div>
