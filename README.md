@@ -31,9 +31,10 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 |---|---|---|
 | **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
 | **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![In Progress](https://img.shields.io/badge/In%20Progress-003399?style=flat-square)](#) |
+<!--
 
 </div>
-<!--
+
 ## Writing
 
 <div align="center">
@@ -46,9 +47,9 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 | **Substack** | AI governance newsletter for compliance teams | [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](#) |
 | **SSRN** | Academic papers on regulatory compliance | [![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat-square&logoColor=white)](#) |
 
--->
-</div>
 
+</div>
+-->
 ## Skills
 
 <div align="center">
