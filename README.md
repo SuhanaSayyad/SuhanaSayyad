@@ -13,17 +13,17 @@
 
 ### Hey, I am Suhana 👋
 
-MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
+MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
 
 > **I bridge the gap between AI regulation and real-world compliance**  -  building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
 
 - Building **open-source EU AI Act compliance tools**
 - **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
-- 💬 Ask me about **EU AI Act, GDPR and AI Governance**
+- 💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
 
 ---
 
-## Open Source EU AI Act Compliance Tools
+## 🛠️ Open Source EU AI Act Compliance Tools
 
 <div align="center">
 
@@ -31,7 +31,6 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 |---|---|---|
 | **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
 | **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![In Progress](https://img.shields.io/badge/In%20Progress-003399?style=flat-square)](#) |
-<!--
 
 </div>
 
@@ -45,11 +44,9 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 |---|---|---|
 | **Dev.to** | Technical deep-dives on EU AI Act compliance tooling | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](#) |
 | **Substack** | AI governance newsletter for compliance teams | [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](#) |
-| **SSRN** | Academic papers on regulatory compliance | [![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat-square&logoColor=white)](#) |
-
 
 </div>
--->
+
 ## Skills
 
 <div align="center">
@@ -74,7 +71,7 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 
 </div>
 
-## Currently
+## 🔭 Currently
 
 - Building five open-source EU AI Act compliance tools
 - Studying for CIPP/E certification
