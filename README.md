@@ -46,8 +46,9 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 | **Substack** | AI governance newsletter for compliance teams | [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](#) |
 | **SSRN** | Academic papers on regulatory compliance | [![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat-square&logoColor=white)](#) |
 
-</div>
 -->
+</div>
+
 ## Skills
 
 <div align="center">
