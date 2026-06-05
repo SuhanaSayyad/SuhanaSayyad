@@ -40,10 +40,10 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 
 *I write about EU AI Act implementation, GDPR compliance, and AI governance for practitioners.*
 
-| Platform | Topic | Link |
-|---|---|---|
-| **Dev.to** | Technical deep-dives on EU AI Act compliance tooling | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](#) |
-| **Substack** | AI governance newsletter for compliance teams | [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](#) |
+| Platform | Link |
+|---|---|
+| Dev.to | [![Dev.to](https://img.shields.io/badge/Visit-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/suhanasayyad) |
+| Substack | [![Substack](https://img.shields.io/badge/Visit-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@suhanasayyad) |
 
 </div>
 
