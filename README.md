@@ -35,7 +35,7 @@ MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI 
 
 </div>
 
-## ✍️ Writing
+## Writing
 
 <div align="center">
 
@@ -51,7 +51,7 @@ MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI 
 
 </div>
 
-## ⚡ Skills
+## Skills
 
 <div align="center">
 
