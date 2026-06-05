@@ -20,10 +20,8 @@ MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI 
 
 I build open-source tools that make AI governance practical for organisations that do not have a team of lawyers.
 
-- 🔨 Building **5 open-source EU AI Act compliance tools**
-- 📖 Studying **CIPP/E** certification (Ustaran textbook)
-- 🧠 Thesis: **NLP pipeline** detecting GDPR gaps using SBERT and Legal-BERT
-- 🏛️ **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
+- Building **open-source EU AI Act compliance tools**
+- **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
 - 💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
 
 </td>
@@ -33,7 +31,7 @@ I build open-source tools that make AI governance practical for organisations th
 </tr>
 </table>
 
-## 🛠️ Open Source EU AI Act Compliance Tools
+## Open Source EU AI Act Compliance Tools
 
 <div align="center">
 
@@ -55,7 +53,7 @@ I build open-source tools that make AI governance practical for organisations th
 </a>
 </div>
 
-## ⚡ Skills
+## Skills
 
 <div align="center">
 
@@ -82,7 +80,7 @@ I build open-source tools that make AI governance practical for organisations th
 ## 🔭 Currently
 
 - Building five open-source EU AI Act compliance tools
-- Studying for CIPP/E certification using the Ustaran textbook
+- Studying for CIPP/E certification
 - Looking for AI governance and data protection roles in Ireland from September 2026
 - Open to collaboration on EU AI Act compliance tooling projects
 
