@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana35)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1f36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhanaSayyad)
-[![IAPP%20Member](https://img.shields.io/badge/IAPP%20Member-003399?style=for-the-badge&logoColor=white)](https://iapp.org)
 [![MSc%20Cybersecurity](https://img.shields.io/badge/MSc%20Cybersecurity%20%7C%20TUS-0055ff?style=for-the-badge&logoColor=white)](https://tus.ie)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanasayyad35@gmail.com)
 </div>
