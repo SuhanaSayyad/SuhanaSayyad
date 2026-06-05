@@ -26,12 +26,12 @@ I build open-source tools that make AI governance practical for organisations th
 
 </td>
 <td valign="top" width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
 
-## Open Source EU AI Act Compliance Tools
+## 🛠️ Open Source EU AI Act Compliance Tools
 
 <div align="center">
 
@@ -42,18 +42,23 @@ I build open-source tools that make AI governance practical for organisations th
 
 </div>
 
-## 📌 Featured Research
+## ✍️ Writing
 
 <div align="center">
-<a href="https://github.com/SuhanaSayyad/eu-ai-act-compliance-tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuhanaSayyad&repo=eu-ai-act-compliance-tool&theme=dark&bg_color=1a1f36&title_color=7eb3ff&icon_color=003399&text_color=ffffff&border_color=003399"/>
-</a>
-<a href="https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuhanaSayyad&repo=eu-ai-act-crosswalk-tool&theme=dark&bg_color=1a1f36&title_color=7eb3ff&icon_color=003399&text_color=ffffff&border_color=003399"/>
-</a>
+
+*I write about EU AI Act implementation, GDPR compliance, and AI governance for practitioners.*
+
+| Platform | Topic | Link |
+|---|---|---|
+| **Dev.to** | Technical deep-dives on EU AI Act compliance tooling | [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](#) |
+| **Substack** | AI governance newsletter for compliance teams | [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](#) |
+| **Medium** | Long-form articles on GDPR and AI regulation | [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](#) |
+| **IAPP Privacy Perspectives** | Policy analysis on EU AI Act obligations | [![IAPP](https://img.shields.io/badge/IAPP-003399?style=flat-square&logoColor=white)](#) |
+| **SSRN** | Academic papers on regulatory compliance | [![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat-square&logoColor=white)](#) |
+
 </div>
 
-## Skills
+## ⚡ Skills
 
 <div align="center">
 
@@ -85,8 +90,6 @@ I build open-source tools that make AI governance practical for organisations th
 - Open to collaboration on EU AI Act compliance tooling projects
 
 <div align="center">
-
-
 
 *If you find my tools useful, consider giving them a* ⭐
 
