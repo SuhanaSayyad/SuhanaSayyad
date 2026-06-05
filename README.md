@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="AI Governance" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### Hey, I am Suhana
 
@@ -41,10 +41,7 @@ I build open-source tools that make AI governance practical for organisations th
 | Tool | Description | Status |
 |---|---|---|
 | **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
-| **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![Soon](https://img.shields.io/badge/11%20Jun-d97706?style=flat-square)](#) |
-| **EU AI Act Deployer Evidence Pack Generator** | Generates Article 26 compliance documents from a short questionnaire | [![Soon](https://img.shields.io/badge/18%20Jun-d97706?style=flat-square)](#) |
-| **Article 4 AI Literacy Assessment Tool** | Documents compliance with Article 4 AI literacy obligations in force since Feb 2025 | [![Soon](https://img.shields.io/badge/25%20Jun-d97706?style=flat-square)](#) |
-| **Irish EU AI Act Readiness Diagnostic** | Tailored diagnostic for Ireland's distributed enforcement model across 15 national competent authorities | [![Soon](https://img.shields.io/badge/2%20Jul-d97706?style=flat-square)](#) |
+| **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![In Progress](https://img.shields.io/badge/In%20Progress-003399?style=flat-square)](#) |
 
 </div>
 
@@ -91,38 +88,24 @@ I build open-source tools that make AI governance practical for organisations th
 
 ---
 
-## Certifications and Education
-
-<div align="center">
-
-| Credential | Status | Issuer |
-|---|---|---|
-| MSc Software Design with Cybersecurity | In progress, graduating Sep 2026 | TUS Athlone, Ireland |
-| CIPP/E | In progress | IAPP |
-| AIGP | Planned Nov 2026 | IAPP |
-| Google Cybersecurity Specialization | Completed | Google / Coursera |
-| Fortinet Certified Associate Cybersecurity | Completed | Fortinet |
-| Cisco Cybersecurity Essentials | Completed | Cisco |
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuhanaSayyad&show_icons=true&theme=dark&bg_color=1a1f36&title_color=7eb3ff&icon_color=003399&text_color=ffffff&border_color=003399&count_private=true&hide_border=false&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuhanaSayyad&show_icons=true&theme=dark&bg_color=1a1f36&title_color=7eb3ff&icon_color=003399&text_color=ffffff&border_color=003399&count_private=true&include_all_commits=true&hide_border=false"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhanaSayyad&layout=compact&theme=dark&bg_color=1a1f36&title_color=7eb3ff&text_color=ffffff&border_color=003399&hide_border=false&langs_count=6"/>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhanaSayyad&theme=dark&background=1a1f36&border=003399&stroke=003399&ring=7eb3ff&fire=0055ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7eb3ff&sideLabels=7eb3ff&dates=9ba3bf" alt="GitHub Streak"/>
+## Currently
 
-</div>
+- Building five open-source EU AI Act compliance tools
+- Studying for CIPP/E certification using the Ustaran textbook
+- Looking for AI governance and data protection roles in Ireland from September 2026
+- Open to collaboration on EU AI Act compliance tooling projects
 
 ---
 
