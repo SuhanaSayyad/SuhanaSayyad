@@ -23,7 +23,7 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 
 ---
 
-## 🛠️ Open Source EU AI Act Compliance Tools
+## Open Source EU AI Act Compliance Tools
 
 <div align="center">
 
