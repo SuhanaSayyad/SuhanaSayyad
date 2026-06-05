@@ -20,7 +20,7 @@ MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI 
 
 - Building **open-source EU AI Act compliance tools**
 - **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
-- 💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
+- 💬 Ask me about **EU AI Act, GDPR and AI Governance**
 
 ---
 
