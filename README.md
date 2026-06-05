@@ -13,7 +13,7 @@
 
 ### Hey, I am Suhana 👋
 
-MSc Cybersecurity candidate at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
+MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
 
 > **I bridge the gap between AI regulation and real-world compliance**  -  building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
 
