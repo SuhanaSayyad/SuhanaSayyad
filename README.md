@@ -15,24 +15,26 @@
 
 MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
 
-> **I bridge the gap between AI regulation and real-world compliance by building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
+> **I bridge the gap between AI regulation and real-world compliance** by building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
 
-- Building **open-source EU AI Act compliance tools**
 - **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
 - 💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
 
 ---
 
-## 🛠️ Open Source EU AI Act Compliance Tools
+## 🛠️ Featured Projects
 
 <div align="center">
 
-| Tool | Description | Status |
+| Project | Description | Status |
 |---|---|---|
 | **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
 | **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![In Progress](https://img.shields.io/badge/In%20Progress-003399?style=flat-square)](#) |
+| **[GDPR Compliance Gap Detection  -  MSc Thesis](https://github.com/SuhanaSayyad/eu-ai-act-compliance-tool)** | NLP pipeline using SBERT and Legal-BERT to detect GDPR gaps in EHR privacy policies | [![Research](https://img.shields.io/badge/Research-7c3aed?style=flat-square)](#) |
 
 </div>
+
+---
 
 ## Writing
 
@@ -46,6 +48,8 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 | Substack | [![Substack](https://img.shields.io/badge/Visit-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@suhanasayyad) |
 
 </div>
+
+---
 
 ## Skills
 
@@ -71,11 +75,11 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 
 </div>
 
-## 🔭 Currently
+---
 
-- Building five open-source EU AI Act compliance tools
-- Studying for CIPP/E certification
-- Looking for AI governance and data protection roles in Ireland from September 2026
+## Currently
+
+- Building five open-source EU AI Act compliance tools and studying for CIPP/E certification
 - Open to collaboration on EU AI Act compliance tooling projects
 
 <div align="center">
