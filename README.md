@@ -29,8 +29,6 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 | Project | Description | Status |
 |---|---|---|
 | **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
-| **[Article 50 Transparency Checker](https://github.com/SuhanaSayyad/eu-ai-act-article50-checker)** | 10-question tool checking which Article 50 obligations apply, with exceptions and exemptions | [![In Progress](https://img.shields.io/badge/In%20Progress-003399?style=flat-square)](#) |
-| **[GDPR Compliance Gap Detection  -  MSc Thesis](https://github.com/SuhanaSayyad/eu-ai-act-compliance-tool)** | NLP pipeline using SBERT and Legal-BERT to detect GDPR gaps in EHR privacy policies | [![Research](https://img.shields.io/badge/Research-7c3aed?style=flat-square)](#) |
 
 </div>
 
