@@ -17,9 +17,7 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 
 > **I bridge the gap between AI regulation and real-world compliance** by building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
 
-- **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
-
-  💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
+  💬 Ask me about **EU AI Act, GDPR, AI Governance**
 
 ---
 
