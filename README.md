@@ -62,7 +62,7 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 
 ## Currently
 
-- Building five open-source EU AI Act compliance tools and studying for CIPP/E certification
+- Building open-source EU AI Act compliance tools and studying for CIPP/E certification
 - Open to collaboration on EU AI Act compliance tooling projects
 
 <div align="center">
