@@ -18,32 +18,17 @@ MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Ac
 > **I bridge the gap between AI regulation and real-world compliance** by building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
 
 - **IAPP member** seeking AI governance roles in Ireland from **Sep 2026**
-- 💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
+  💬 Ask me about **EU AI Act, GDPR, AI Governance, NLP**
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Status |
 |---|---|---|
 | **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
-
-</div>
-
----
-
-## Writing
-
-<div align="center">
-
-*I write about EU AI Act implementation, GDPR compliance, and AI governance for practitioners.*
-
-| Platform | Link |
-|---|---|
-| Dev.to | [![Dev.to](https://img.shields.io/badge/Visit-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/suhanasayyad) |
-| Substack | [![Substack](https://img.shields.io/badge/Visit-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@suhanasayyad) |
 
 </div>
 
