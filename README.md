@@ -33,10 +33,6 @@ MSc in Software Design with Cybersecurity student at **TUS Athlone, Ireland**, i
 
 ---
 
-## Currently
-
-- Building open-source AI governance tools and studying for CIPP/E
-- Open to graduate roles in technology risk, data protection and AI governance (Ireland, Netherlands, Switzerland)
 
 <div align="center">
 
