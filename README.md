@@ -1,11 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:0055ff&height=200&section=header&text=Suhana%20Sayyad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Governance%20%E2%80%A2%20EU%20AI%20Act%20%E2%80%A2%20GDPR%20%E2%80%A2%20Cybersecurity&descAlignY=53&descSize=15" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=SuhanaSayyad&label=Profile%20views&color=003399&style=flat" alt="profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:0055ff&height=200&section=header&text=Suhana%20Sayyad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Risk%20%E2%80%A2%20AI%20Governance%20%E2%80%A2%20GDPR%20%E2%80%A2%20Cybersecurity&descAlignY=53&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana35)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1f36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhanaSayyad)
-[![MSc%20Cybersecurity](https://img.shields.io/badge/MSc%20Cybersecurity%20%7C%20TUS-0055ff?style=for-the-badge&logoColor=white)](https://tus.ie)
+[![IAPP Member](https://img.shields.io/badge/IAPP-Member-003399?style=for-the-badge)](https://iapp.org)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanasayyad35@gmail.com)
 </div>
 
@@ -13,30 +11,41 @@
 
 ### Hey, I am Suhana 👋
 
-MSc Cybersecurity student at **TUS Athlone, Ireland** specialising in **EU AI Act** and **GDPR**.
+MSc in Software Design with Cybersecurity student at **TUS Athlone, Ireland**, focused on **technology risk, data protection and AI governance**.
 
-> **I bridge the gap between AI regulation and real-world compliance** by building free, open-source tools so organisations can meet their EU AI Act obligations without needing a law firm on retainer.
+I build free, open-source tools that help organisations assess risk and meet their **EU AI Act** and **GDPR** obligations.
 
-  💬 Ask me about **EU AI Act, GDPR, AI Governance**
+**Open to:** graduate Technology Risk, IT Risk, Data Protection and AI Governance roles in Ireland, the Netherlands and Switzerland.
 
 ---
 
 ## Featured Projects
 
-<div align="center">
+### 🏦 [AI Act Credit Compliance](https://github.com/SuhanaSayyad/ai-act-credit-compliance)
+Automated EU AI Act compliance tool for high-risk credit scoring AI. One questionnaire produces five assessments: FRIA, Cybersecurity, Explainability (XAI), Bias and Risk.
+`TypeScript` `React` `Neo4j` `SHAP` `IBM AIF360` `FastAPI`
 
-| Project | Description | Status |
-|---|---|---|
-| **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 EU AI Act obligations to NIST and ISO 42001 with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
+### 🧭 [GPAI Code of Practice Self-Assessment](https://github.com/SuhanaSayyad/gpai-cop-self-assessment)
+Free self-assessment for general-purpose AI model providers, checking compliance with EU AI Act Articles 53 and 55. Includes 13 measures, a radar chart, a PDF report, a 90-day action plan and evidence checklists.
+`Python` `Streamlit`
 
-</div>
+### 🔗 [EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)
+Interactive crosswalk mapping 30 EU AI Act obligations to NIST AI RMF and ISO 42001 controls, with strength indicators, gap analysis and source links.
+`JavaScript` · [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool)
 
 ---
 
+## Background
+
+- OSINT investigation experience (Secure Mojo internship, freelance work)
+- Daily work with sensitive data under GDPR
+- MSc modules: Security in the Enterprise, Network Security, Computer and Cloud Security, Applied Cryptography
+
 ## Currently
 
-- Building open-source EU AI Act compliance tools and studying for CIPP/E certification
-- Open to collaboration on EU AI Act compliance tooling projects
+- Finishing my MSc
+- Studying for CIPP/E
+- Building more open-source AI governance tools
 
 <div align="center">
 
