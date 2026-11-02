@@ -34,6 +34,20 @@ MSc in Software Design with Cybersecurity (First Class Honours, TUS Athlone, Ire
 
 ---
 
+## What I have built
+
+<div align="center">
+
+| Project | Description | Status |
+|---|---|---|
+| **[AI Act Credit Compliance](https://github.com/SuhanaSayyad/ai-act-credit-compliance)** | Risk assessment for high-risk credit scoring AI. One questionnaire gives five assessments: FRIA, Cybersecurity, Explainability, Bias and Risk | ![Open Source](https://img.shields.io/badge/Open%20Source-003399?style=flat-square) |
+| **[GPAI Code of Practice Self-Assessment](https://github.com/SuhanaSayyad/gpai-cop-self-assessment)** | Compliance gap check for GPAI providers with a PDF report and 90-day action plan | ![Open Source](https://img.shields.io/badge/Open%20Source-003399?style=flat-square) |
+| **[EU AI Act / NIST AI RMF / ISO 42001 Crosswalk](https://github.com/SuhanaSayyad/eu-ai-act-crosswalk-tool)** | Maps 30 legal obligations to NIST and ISO 42001 controls, with strength indicators and gap analysis | [![Live](https://img.shields.io/badge/Live-16a34a?style=flat-square)](https://suhanasayyad.github.io/eu-ai-act-crosswalk-tool) |
+
+</div>
+
+---
+
 <div align="center">
 
 *If you find my work useful, consider giving it a* ⭐
