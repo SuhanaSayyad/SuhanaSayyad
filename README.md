@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:0055ff&height=200&section=header&text=Suhana%20Sayyad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fraud%20Analytics%20%E2%80%A2%20Financial%20Crime%20%E2%80%A2%20OSINT%20%E2%80%A2%20SQL%20%E2%80%A2%20Python&descAlignY=53&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:0055ff&height=200&section=header&text=Suhana%20Sayyad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=53&descSize=15" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhana35)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1f36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhanaSayyad)
