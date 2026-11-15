@@ -11,28 +11,7 @@
 
 ### Hey, I am Suhana 👋
 
-MSc in Software Design with Cybersecurity (First Class Honours, TUS Athlone, Ireland). I investigate, find patterns and write things up clearly. I am building a career in **fraud analytics and fraud and scam investigation**.
-
-> I like following the trail: who did what, when, and how the money moved. I use **OSINT, SQL and Python** to turn messy data into evidence.
-
-💬 Ask me about **Fraud detection, APP scams, mule networks, OSINT**
-
----
-
-## What I am building
-
-<div align="center">
-
-| Project | What it shows | Status |
-|---|---|---|
-| **Rules vs ML card-fraud notebook** | Hand-written rules against a machine learning model, with precision, recall and false positives | ![In progress](https://img.shields.io/badge/In%20progress-f59e0b?style=flat-square) |
-| **Mule-network investigation** | Graph analysis of money-mule rings, with a written investigation report | ![In progress](https://img.shields.io/badge/In%20progress-f59e0b?style=flat-square) |
-| **APP fraud dashboard** | Fraud value, recovery and typologies on synthetic data | ![In progress](https://img.shields.io/badge/In%20progress-f59e0b?style=flat-square) |
-| **Fraud model monitoring pack** | Model card, performance tracking and drift monitoring plan for a fraud model | ![In progress](https://img.shields.io/badge/In%20progress-f59e0b?style=flat-square) |
-
-</div>
-
----
+MSc in Software Design with Cybersecurity (First Class Honours, TUS Athlone, Ireland)
 
 ## What I have built
 
